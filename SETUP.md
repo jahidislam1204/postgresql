@@ -99,8 +99,8 @@ sudo -u postgres nano /var/lib/postgresql/primary/pg_hba.conf
 Add at bottom:
 
 ```
-host replication replicator 127.0.0.1/32 md5
-host all all 0.0.0.0/0 md5
+host  replication   replicator   127.0.0.1/32   md5
+host  all           all          0.0.0.0/0      md5
 ```
 
 ---
