@@ -96,7 +96,7 @@ The standby instantly becomes the new primary with no data rebuild required.
 
 Detailed setup steps are available here:
 
-👉 [setup.md](setup.md)
+👉 [setup.md]([setup.md](https://github.com/jahidislam1204/postgresql/blob/main/SETUP.md))
 
 ---
 
